@@ -8,3 +8,6 @@
 3. git reset --hard [commit]
 4. Using --hard is important because it will also change your files back to that particular commit.
 5. You might want to reset them because then you know that you are going back to a version that is error free.
+
+1. git branch [branch-name]
+2. git checkout [branch-name]
